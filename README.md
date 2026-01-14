@@ -20,24 +20,24 @@ AI Agent developing collection with Claude Code skills
   New skills are actively being developed. Contributions and suggestions are welcome!
 
 ## Contents
-###1.Features
-###2.Quick Start
-###3.Installation
-###4.Usage
-###5.Configuration
-###6.General Project Structure
-###7.Development
-###8.FAQ
-###9.Contributing
-###10.Acknowledgements
+  ###1.Features
+  ###2.Quick Start
+  ###3.Installation
+  ###4.Usage
+  ###5.Configuration
+  ###6.General Project Structure
+  ###7.Development
+  ###8.FAQ
+  ###9.Contributing
+  ###10.Acknowledgements
 
 ## Quick Start
 If you successfully have installed Claude Code and deploy skills files, then we can do a quick start, or switch to the next part Installation.
 
-**Step 1. **open a Terminal in the skill directory. 
-**Step 2. **enter " claude " to start claude code in Terminal.
-**Step 3. **using "/plugin" order to verify current skills loaded in Claude Code.
-**Step 4. **give your prompt linked to related skill to Claude Code, then follow the reminders by CC to modify or complete the outcome.
+ - **Step 1. **open a Terminal in the skill directory. 
+ - **Step 2. **enter " claude " to start claude code in Terminal.
+ - **Step 3. **using "/plugin" order to verify current skills loaded in Claude Code.
+ - **Step 4. **give your prompt linked to related skill to Claude Code, then follow the reminders by CC to modify or complete the outcome.
 
 ## Installation
 To run the AI projects, it needs to install Claude Code first in the local or cloud server. I use the Bigmodel.cn coding-plan to do that, and at the same time Bigmodel.cn provides the effective and simple way to deploy Claude Code which you can check the doc in https://docs.bigmodel.cn/cn/coding-plan/tool/claude
@@ -46,5 +46,5 @@ In particular， with the deloyment of Claude Code, users in Mainland China can 
 
 ### Recommended configuration environment：
 
-###1.Node.js 18 or later version 
-###2.Git only for Windows
+ - **1.**Node.js 18 or later version 
+ - **2.**Git only for Windows
